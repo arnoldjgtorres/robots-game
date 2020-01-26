@@ -6,21 +6,21 @@ Player Scripts - Player movement and stats. Basic animation occurs when player i
   * WorldInteraction
   
 Environment Scripts - Camera control and an interactable script for future use on items in the world. 
-  *Camera3rdPerson
-  CameraIsometric
-  Interactable
+  * Camera3rdPerson
+  * CameraIsometric
+  * Interactable
    
 Enemy Scripts - Two basic enemies. Both damage player when collisions occur. One has an energy shield. 
   *canvasPosition
-  EasyEnemy
-  EnemyCollision
-  ProwlerCollision
-  ProwlerScript
-  ShieldScript
+  * EasyEnemy
+  * EnemyCollision
+  * ProwlerCollision
+  * ProwlerScript
+  * ShieldScript
 
 CyborgScripts - Code for the 'boss' of the game. Boss movement doesn't begin until the player enters the area, and damage is only dealt if the metal blocks are hit when the boss is moving, since the boss is on a higher plane. 
-  *CyborgMovement
-  HealthCyborg
-  MetalDamager
-  PlayerEntered
+  * CyborgMovement
+  * HealthCyborg
+  * MetalDamager
+  * PlayerEntered
 
